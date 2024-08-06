@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmHastaGuncelle.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hastane_OtomasyonV2\\FrmHastaGuncelle.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmHastaKay\u0131t.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hastane_OtomasyonV2\\FrmHastaKay\u0131t.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmBransPanel.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hastane_OtomasyonV2\\FrmBransPanel.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmBransPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hastane_OtomasyonV2\\FrmBransPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmDegerlendirme.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hastane_OtomasyonV2\\FrmDegerlendirme.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmDegerlendirme.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hastane_OtomasyonV2\\FrmDegerlendirme.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmDegerlendirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hastane_OtomasyonV2\\FrmDegerlendirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmGiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hastane_OtomasyonV2\\FrmGiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmGiris.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hastane_OtomasyonV2\\FrmGiris.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\hastane_otomasyonv2\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hastane_otomasyonv2\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmHastaGuncelle.resx",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmHastaGuncelle.resx",
+              "RelativeDocumentMoniker": "Hastane_OtomasyonV2\\FrmHastaGuncelle.resx",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmHastaGuncelle.resx",
+              "RelativeToolTip": "Hastane_OtomasyonV2\\FrmHastaGuncelle.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-06T14:01:57.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmHastaKay\u0131t.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmHastaKay\u0131t.Designer.cs",
+              "RelativeDocumentMoniker": "Hastane_OtomasyonV2\\FrmHastaKay\u0131t.Designer.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmHastaKay\u0131t.Designer.cs",
+              "RelativeToolTip": "Hastane_OtomasyonV2\\FrmHastaKay\u0131t.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:01:56.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBransPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmBransPanel.Designer.cs",
+              "RelativeDocumentMoniker": "Hastane_OtomasyonV2\\FrmBransPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmBransPanel.Designer.cs",
+              "RelativeToolTip": "Hastane_OtomasyonV2\\FrmBransPanel.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:01:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBransPanel.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmBransPanel.cs",
+              "RelativeDocumentMoniker": "Hastane_OtomasyonV2\\FrmBransPanel.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmBransPanel.cs",
+              "RelativeToolTip": "Hastane_OtomasyonV2\\FrmBransPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:01:51.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDegerlendirme.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmDegerlendirme.Designer.cs",
+              "RelativeDocumentMoniker": "Hastane_OtomasyonV2\\FrmDegerlendirme.Designer.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmDegerlendirme.Designer.cs",
+              "RelativeToolTip": "Hastane_OtomasyonV2\\FrmDegerlendirme.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:01:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDegerlendirme.resx",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmDegerlendirme.resx",
+              "RelativeDocumentMoniker": "Hastane_OtomasyonV2\\FrmDegerlendirme.resx",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmDegerlendirme.resx",
+              "RelativeToolTip": "Hastane_OtomasyonV2\\FrmDegerlendirme.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-06T14:01:44.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDegerlendirme.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmDegerlendirme.cs",
+              "RelativeDocumentMoniker": "Hastane_OtomasyonV2\\FrmDegerlendirme.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmDegerlendirme.cs",
+              "RelativeToolTip": "Hastane_OtomasyonV2\\FrmDegerlendirme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:01:41.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmGiris.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmGiris.Designer.cs",
+              "RelativeDocumentMoniker": "Hastane_OtomasyonV2\\FrmGiris.Designer.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmGiris.Designer.cs",
+              "RelativeToolTip": "Hastane_OtomasyonV2\\FrmGiris.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:00:46.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "Hastane_OtomasyonV2\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane_OtomasyonV2\\FrmGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:35:20.797Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmHastaGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fengi\\Desktop\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmHastaGiris.cs",
+              "RelativeDocumentMoniker": "Hastane_OtomasyonV2\\FrmHastaGiris.cs",
+              "ToolTip": "C:\\Users\\Furka\\Desktop\\hastaneotomasyonV3\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmHastaGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Furka\\Desktop\\hastaneotomasyonV3\\Hastane_OtomasyonV2\\Hastane_OtomasyonV2\\FrmHastaGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:42:07.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

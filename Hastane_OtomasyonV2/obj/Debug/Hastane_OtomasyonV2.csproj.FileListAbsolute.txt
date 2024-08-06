@@ -1,0 +1,78 @@
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\bin\Debug\Hastane_OtomasyonV2.exe.config
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\bin\Debug\Hastane_OtomasyonV2.exe
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\bin\Debug\Hastane_OtomasyonV2.pdb
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.csproj.AssemblyReference.cache
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmGiris.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaDetay.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaGiris.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaGuncelle.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.Properties.Resources.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.csproj.GenerateResource.cache
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.csproj.CoreCompileInputs.cache
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.exe
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.pdb
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaKayıt.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmBransPanel.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorDetay.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorGiris.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorPanel.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDuyurular.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmRandevuListe.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmSekreterDetay.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmSekreterGiris.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorGuncelle.resources
+C:\Users\fengi\source\repos\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.Form1.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\bin\Debug\Hastane_OtomasyonV2.exe.config
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\bin\Debug\Hastane_OtomasyonV2.exe
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\bin\Debug\Hastane_OtomasyonV2.pdb
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.csproj.AssemblyReference.cache
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.Form1.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorGuncelle.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmBransPanel.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorDetay.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorGiris.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorPanel.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDuyurular.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmGiris.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaDetay.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaGiris.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaGuncelle.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaKayıt.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmRandevuListe.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmSekreterDetay.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmSekreterGiris.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.Properties.Resources.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.csproj.GenerateResource.cache
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.csproj.CoreCompileInputs.cache
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.exe
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.pdb
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDegerlendirme.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorDuyuru.resources
+C:\Users\Furka\Desktop\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaPanel.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\bin\Debug\Hastane_OtomasyonV2.exe.config
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\bin\Debug\Hastane_OtomasyonV2.exe
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\bin\Debug\Hastane_OtomasyonV2.pdb
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.csproj.AssemblyReference.cache
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.Form1.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDegerlendirme.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorDuyuru.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorGuncelle.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmBransPanel.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorDetay.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorGiris.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDoktorPanel.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmDuyurular.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmGiris.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaDetay.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaGiris.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaGuncelle.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaKayıt.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmHastaPanel.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmRandevuListe.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmSekreterDetay.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.FrmSekreterGiris.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.Properties.Resources.resources
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.csproj.GenerateResource.cache
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.csproj.CoreCompileInputs.cache
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.exe
+C:\Users\Furka\Desktop\DERS NOTLARI\DersNotları (S.3-D.2)\Yazılım Müh\YazılımMüh_Dersi_Ödev\hastaneotomasyonV3\Hastane_OtomasyonV2\Hastane_OtomasyonV2\obj\Debug\Hastane_OtomasyonV2.pdb
