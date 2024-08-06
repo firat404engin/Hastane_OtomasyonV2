@@ -6,6 +6,9 @@ Tabii, işte emojilerle süslenmiş ve GitHub için uygun başlık yapısıyla d
 
 ## 🚪 Giriş Ekranı
 
+![Açıklama](images/giris.png)
+
+
 **Özellikler:**
 - **Hasta Girişi Butonu:** Hasta giriş formunu ("FrmHastaGiris") açar. 🧑‍⚕️
 - **Doktor Girişi Butonu:** Doktor giriş formunu ("FrmDoktorGiris") açar. 👨‍⚕️
