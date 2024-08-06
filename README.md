@@ -6,13 +6,12 @@ Tabii, işte emojilerle süslenmiş ve GitHub için uygun başlık yapısıyla d
 
 ## 🚪 Giriş Ekranı
 
-![Açıklama](images/giris.png)
-
-
 **Özellikler:**
 - **Hasta Girişi Butonu:** Hasta giriş formunu ("FrmHastaGiris") açar. 🧑‍⚕️
 - **Doktor Girişi Butonu:** Doktor giriş formunu ("FrmDoktorGiris") açar. 👨‍⚕️
 - **Sekreter Girişi Butonu:** Sekreter giriş formunu ("FrmSekreterGiris") açar. 🧑‍💼
+
+![Açıklama](images/giris.png)
 
 **Kullanıcı Tipleri:**
 - Hasta 🏥
@@ -28,6 +27,8 @@ Tabii, işte emojilerle süslenmiş ve GitHub için uygun başlık yapısıyla d
 - **Giriş Butonu:** Hastanın giriş bilgilerini doğruladıktan sonra sisteme giriş yapmasını sağlar. 🚪
 - **Kayıt Ol Butonu:** Sistemde kayıtlı olmayan hastalar için kayıt formunu açar. ✍️
 
+- ![Açıklama](images/hastagiris.png)
+
 **Kayıt Olma İşlemi:**
 - Hasta, kişisel bilgilerini girerek sisteme kayıt olur. 📝
 - Veritabanına yeni hasta bilgileri kaydedilir. 💾
@@ -38,11 +39,11 @@ Tabii, işte emojilerle süslenmiş ve GitHub için uygun başlık yapısıyla d
 - **Hasta Bilgileri:** Ad, soyad ve TC kimlik numarası. 🧑‍⚕️
 - **Randevu Alma Paneli:** Branş, doktor, randevu tarihi ve saati seçimi yapılabilir. 📅
 - **Şikayet Belirtme Bölümü:** Hastanın şikayetlerini yazabileceği bölüm. 🗣️
-
+![Açıklama](images/hastarandevu.png)
 **Randevu Yönetimi:**
 - Hasta, uygun tarih ve saatte randevu alabilir. 📆
 - Randevu kontenjanı doluysa, ek kontenjan açılabilir. 📈
-
+- 
 **Randevu Listesi:**
 - Hastanın aldığı ve katıldığı randevular listelenir. 📋
 - Randevuya gidildi olarak işaretleme ve değerlendirme yapılabilir. ✅
@@ -55,13 +56,14 @@ Tabii, işte emojilerle süslenmiş ve GitHub için uygun başlık yapısıyla d
 **Güncelleme İşlemi:**
 - Hasta, kişisel bilgilerini güncelleyip kaydedebilir. 💼
 - Veritabanındaki hasta bilgileri güncellenir. 🔄
+- ![Açıklama](images/bilgiguncelle.png)
 
 ## ⭐ Hasta Hizmet Kalitesi
 
 - Hastanın aldığı ve daha önce katıldığı randevular, formun alt kısmındaki panellerde listelenir. 📊
 - Hasta, randevuyu "gidildi" olarak işaretlediğinde, "Randevuya gittiğinizi onaylıyor musunuz?" mesajı gelir. Onaylandığında, "Hizmet Kalitesini Değerlendirme Ekranı" açılır. 📝
 - Bu ekranda, 1'den 3'e kadar puanlama yapılabilir ve bu puanlar veritabanına kaydedilir. ⭐⭐⭐
-
+![Açıklama](images/hizmet.png)
 ## 👨‍⚕️ Doktor Detay Ekranı
 
 **Doktor Bilgi Güncelleme:**
@@ -74,7 +76,7 @@ Tabii, işte emojilerle süslenmiş ve GitHub için uygun başlık yapısıyla d
 - Duyuruları görüntülemek için duyuru simgesine tıklanabilir. 📰
 
 ## 🧑‍💼 Sekreter Detay Ekranı
-
+![Açıklama](images/sekreterdetay.png)
 **Özellikler:**
 - Sekreterin ad, soyad ve TC kimlik numarası bilgileri görüntülenir. 🧾
 - Randevu paneli ile yeni randevular oluşturulabilir. 📅
@@ -84,9 +86,10 @@ Tabii, işte emojilerle süslenmiş ve GitHub için uygun başlık yapısıyla d
 **Yeni Branşlar ve Randevular:**
 - Yeni branşlar ekleyebilir ve mevcutları güncelleyebilir. 🏥
 - Aktif ve geçmiş randevulara erişim sağlayabilir. 📅
-
+![Açıklama](images/sekreterislem.png)
 ## 🛠️ Sekreter İşlemleri
 
 - Doktor ve branş bilgilerini yönetebilir. 🧑‍⚕️
 - Randevuların takibini yapabilir. 📈
-
+- 
+![Açıklama](images/duyuru.png)
