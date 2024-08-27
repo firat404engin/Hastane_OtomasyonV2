@@ -1,6 +1,3 @@
-Tabii, işte emojilerle süslenmiş ve GitHub için uygun başlık yapısıyla düzenlenmiş proje açıklamanız:
-
----
 
 # 🏥 Hastane Otomasyonu
 
